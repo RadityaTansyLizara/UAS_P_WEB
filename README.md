@@ -13,7 +13,7 @@ Proyek ini adalah halaman web sederhana yang menampilkan berbagai kuliner tradis
 
 ![Screenshot 2024-12-24 125615](https://github.com/user-attachments/assets/e273f454-f004-43a1-b42e-c0c9fd215d16)
 ![Screenshot 2024-12-24 125857](https://github.com/user-attachments/assets/efae3780-92e5-4612-919d-1cb1da749a5d)
-![image](https://github.com/user-attachments/assets/d6349f11-f25f-4faa-b130-7af0556c9589)
+![image](https://github.com/user-attachments/assets/dc970086-4b6e-4758-b6f5-6867e2244c4f)
 
 
 
