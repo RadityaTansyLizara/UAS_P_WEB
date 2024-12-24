@@ -66,30 +66,30 @@ Terdapat teks "Pemrograman Web 1 @ 2024" di bagian bawah halaman
 ### **Fitur Utama:**
 
 a). Desain Responsif:
-Menggunakan Bootstrap 5.3
-Navigasi ramah perangkat mobile
+Menggunakan Bootstrap 5.3, 
+Navigasi ramah perangkat mobile dan 
 Tabel responsif
 
 
 b). Tampilan:
-Tema merah gelap sesuai desain asli
-Teks brand berwarna kuning
-Animasi teks header
+Tema merah gelap sesuai desain asli, 
+Teks brand berwarna kuning, 
+Animasi teks header dan
 Efek hover pada tombol
 
 
 c). Fitur:
-Menu navigasi lengkap dalam bahasa Indonesia
-Tabel data dengan tombol Edit dan Hapus
-Tombol Tambah Data Baru
-Dialog konfirmasi hapus
+Menu navigasi lengkap dalam bahasa Indonesia, 
+Tabel data dengan tombol Edit dan Hapus, 
+Tombol Tambah Data Baru, 
+Dialog konfirmasi hapus dan 
 Penghitung total data
 
 
 d). Komponen:
-Navbar Bootstrap
-Tabel responsif
-Footer kustom
+Navbar Bootstrap, 
+Tabel responsif, 
+Footer kustom dan 
 Tombol interaktif
 
 
