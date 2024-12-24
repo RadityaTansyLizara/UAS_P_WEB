@@ -48,7 +48,7 @@ Aksi (berisi tombol Edit dan Hapus untuk setiap entri)
 c). Data yang Ditampilkan: 
 Saat ini terdapat 2 entri makanan:
 Gudeg dari Daerah Istimewa Yogyakarta
-Batagor dari Jakarta
+Batagor dari Jakarta. 
 Di bagian bawah tabel tercantum "Total: 2 data"
 
 d). Fungsionalitas: 
