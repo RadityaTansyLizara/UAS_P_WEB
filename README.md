@@ -35,28 +35,28 @@ Dengan adanya menu "Contact", pengunjung dapat dengan mudah menemukan cara untuk
 
 ### **Fitur Utama:**
 
-a). Halaman Data Makanan
+a). Halaman Data Makanan: 
 Judul utama "Data Makanan"
 Tombol "+ Tambah Data Baru" untuk menambahkan entri makanan baru
 Tabel dengan kolom:
 
-b). No (nomor urut)
+b). No (nomor urut): 
 Nama Makanan
 Daerah Makanan (asal daerah)
 Aksi (berisi tombol Edit dan Hapus untuk setiap entri)
 
-c). Data yang Ditampilkan
+c). Data yang Ditampilkan: 
 Saat ini terdapat 2 entri makanan:
 Gudeg dari Daerah Istimewa Yogyakarta
 Batagor dari Jakarta
 Di bagian bawah tabel tercantum "Total: 2 data"
 
-d). Fungsionalitas
+d). Fungsionalitas: 
 Tombol Edit (berwarna kuning) untuk mengubah data
 Tombol Hapus (berwarna merah) untuk menghapus data
 Kemampuan untuk menambah data baru
 
-e). Footer
+e). Footer: 
 Terdapat teks "Pemrograman Web 1 @ 2024" di bagian bawah halaman
 
 
