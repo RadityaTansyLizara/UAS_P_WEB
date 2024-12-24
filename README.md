@@ -29,6 +29,36 @@ Website ini memiliki struktur yang sederhana dan jelas, memudahkan pengunjung da
 d). Informasi Kontak:
 Dengan adanya menu "Contact", pengunjung dapat dengan mudah menemukan cara untuk menghubungi pemilik atau pengelola website.
 
+### 2. Halaman Makanan
+
+![image](https://github.com/user-attachments/assets/1c68562d-5a69-4af0-b166-4b61012943dd)
+
+### **Fitur Utama:**
+
+a). Halaman Data Makanan
+Judul utama "Data Makanan"
+Tombol "+ Tambah Data Baru" untuk menambahkan entri makanan baru
+Tabel dengan kolom:
+
+b). No (nomor urut)
+Nama Makanan
+Daerah Makanan (asal daerah)
+Aksi (berisi tombol Edit dan Hapus untuk setiap entri)
+
+c). Data yang Ditampilkan
+Saat ini terdapat 2 entri makanan:
+Gudeg dari Daerah Istimewa Yogyakarta
+Batagor dari Jakarta
+Di bagian bawah tabel tercantum "Total: 2 data"
+
+d). Fungsionalitas
+Tombol Edit (berwarna kuning) untuk mengubah data
+Tombol Hapus (berwarna merah) untuk menghapus data
+Kemampuan untuk menambah data baru
+
+e). Footer
+Terdapat teks "Pemrograman Web 1 @ 2024" di bagian bawah halaman
+
 
 
 
