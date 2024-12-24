@@ -9,3 +9,10 @@ Proyek ini adalah halaman web sederhana yang menampilkan berbagai kuliner tradis
 
 ## Berikut adalah Web Daftar Kuliner Tradisional untuk memenuhi Tugas Ulangan Akhir Semester:
 
+### 1. Halaman Home
+
+![Screenshot 2024-12-24 125615](https://github.com/user-attachments/assets/e273f454-f004-43a1-b42e-c0c9fd215d16)
+![Screenshot 2024-12-24 125857](https://github.com/user-attachments/assets/efae3780-92e5-4612-919d-1cb1da749a5d)
+
+
+
