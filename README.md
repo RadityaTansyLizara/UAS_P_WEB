@@ -29,7 +29,7 @@ Website ini memiliki struktur yang sederhana dan jelas, memudahkan pengunjung da
 d). Informasi Kontak:
 Dengan adanya menu "Contact", pengunjung dapat dengan mudah menemukan cara untuk menghubungi pemilik atau pengelola website.
 
-### 2. Halaman Makanan
+### 2. Halaman view Makanan
 
 ![image](https://github.com/user-attachments/assets/1c68562d-5a69-4af0-b166-4b61012943dd)
 
