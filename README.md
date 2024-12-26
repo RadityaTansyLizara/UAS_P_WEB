@@ -126,7 +126,6 @@ Tombol interaktif
 ### Halaman About
 
 ![Screenshot 2024-12-26 125725](https://github.com/user-attachments/assets/a1927612-1cc8-418f-8177-2032346426f9)
-
 ![Screenshot 2024-12-26 125817](https://github.com/user-attachments/assets/ce0bcb70-92d4-4b6b-8e4e-4030e526af73)
 
 
@@ -136,8 +135,9 @@ Tombol interaktif
 ### Halaman Contact
 
 ![Screenshot 2024-12-26 130041](https://github.com/user-attachments/assets/56e29181-23a4-47f3-ab0d-584ec262955c)
-
 ![Screenshot 2024-12-26 130145](https://github.com/user-attachments/assets/6132f349-9448-4e99-9528-06d15200f541)
+![Screenshot 2024-12-26 173453](https://github.com/user-attachments/assets/cfed5199-87d8-4b58-90c4-ca07b1456d32)
+
 
 
 
