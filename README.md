@@ -181,20 +181,26 @@ Footer menampilkan teks "Pemrograman Web 1 @ 2024"
 a). Form Input Data: Terdapat formulir dengan dua field input utama:
 
 Nama Minuman: Field untuk memasukkan nama minuman (contoh yang terisi: "Teh Gaharu")
+
 Daerah Minuman: Field untuk memasukkan asal daerah minuman (contoh yang terisi: "Kalimantan Selatan")
 
 b). Tombol Kontrol: Terdapat 3 tombol untuk mengelola input data:
 
-Submit: Untuk menyimpan data baru ke database
-Reset: Untuk mengosongkan semua field input
-Cancel: Untuk membatalkan penambahan data dan kembali ke halaman sebelumnya
+-Submit: Untuk menyimpan data baru ke database
+
+-Reset: Untuk mengosongkan semua field input
+
+-Cancel: Untuk membatalkan penambahan data dan kembali ke halaman sebelumnya
 
 c). Navigation Menu: Menu navigasi di bagian atas terdiri dari: 
 
 Home, Makanan, Minuman, About, dan Contact
+
 Logo/nama website "My Website" ditampilkan di sebelah kiri header
 
-d). Desain Antarmuka: Header dengan judul "Daftar Kuliner Tradisional", 
+d). Desain Antarmuka: 
+
+Header dengan judul "Daftar Kuliner Tradisional", 
 Sub-header "Tambah Data Daftar Minuman" yang menjelaskan fungsi halaman, 
 Layout form yang terstruktur dan rapi, 
 Field input menggunakan lebar yang konsisten dan
@@ -209,39 +215,50 @@ Footer menampilkan teks "Pemrograman Web 1 @ 2024"
 
 a). Menampilkan Data Minuman: Data ditampilkan dalam format tabel dengan kolom:
 
-No (nomor urut)
-Nama Minuman
-Daerah Minuman
-Aksi (tombol Edit dan Hapus)
+-No (nomor urut)
+
+-Nama Minuman
+
+-Daerah Minuman
+
+-Aksi (tombol Edit dan Hapus)
 
 Saat ini menampilkan 3 data minuman:
 
-Es Kuwut dari Bali
-Bajigur dari Jawa Barat
-Teh Gaharu dari Kalimantan Selatan
+-Es Kuwut dari Bali
+
+-Bajigur dari Jawa Barat
+
+-Teh Gaharu dari Kalimantan Selatan
 
 Total data yang tersimpan (3 data) ditampilkan di bagian bawah tabel
 
 b). Fitur Tambah Data Baru:
 
 Tombol "+ Tambah Data Baru" berwarna kuning tersedia di atas tabel
+
 Memungkinkan pengguna untuk menambahkan minuman tradisional baru ke database
 
 c). Fitur Pengelolaan Data: Setiap baris data dilengkapi dengan dua tombol aksi:
 
 Edit (kuning): Untuk mengubah informasi minuman
+
 Hapus (merah): Untuk menghapus data minuman
 
 d). Navigation Menu: Menu navigasi di bagian atas dengan pilihan: 
 
 Home, Makanan, Minuman, About, Contact
+
 Logo "My Website" di pojok kiri atas
 
 e). Desain Antarmuka
 
 Tema warna merah gelap untuk header dan background
+
 Tabel dengan background putih untuk kemudahan membaca
+
 Layout responsif dan terstruktur
+
 Footer menampilkan "Pemrograman Web 1 @ 2024"
 
 ### Halaman About
@@ -254,8 +271,11 @@ Footer menampilkan "Pemrograman Web 1 @ 2024"
 a). Bagian Sambutan:
 
 Judul "About Us" dengan background merah gelap
+
 Sambutan hangat "Selamat datang di Kisah Kami!"
+
 Deskripsi platform sebagai platform kuliner yang merayakan kekayaan cita rasa Indonesia
+
 Pesan apresiasi kepada pengunjung
 
 b). Tiga Pilar Utama (Card Layout)
@@ -263,29 +283,37 @@ b). Tiga Pilar Utama (Card Layout)
 -Tim Kami
 
 Menampilkan gambar tim yang bersemangat
+
 Deskripsi tentang individu-individu di balik kesuksesan
 
 -Misi Kami
 
 Ilustrasi dengan teks "TRUST"
+
 Penjelasan tentang komitmen memberikan hasil terbaik
 
 -Nilai-Nilai Kami
 
 Gambar puzzle yang melambangkan kerjasama
+
 Menekankan integritas, inovasi, dan keunggulan
 
 b). Bagian "Mengapa Memilih Kami?" :
 
 Penjelasan tentang strategi pemberdayaan bisnis
+
 Fokus pada pertumbuhan dan layanan berkualitas
+
 Background merah muda lembut untuk keseluruhan konten
 
 c). Desain Antarmuka: 
 
 Warna dominan merah dan merah muda
+
 Layout responsif dengan card system
+
 Kombinasi teks dan gambar yang seimbang
+
 Tampilan visual yang profesional dan menarik
 
 ### Halaman Contact
@@ -299,53 +327,64 @@ Tampilan visual yang profesional dan menarik
 a). Header dan Navigasi: 
 
 Judul "Daftar Kuliner Tradisional"
+
 Menu navigasi: Home, Makanan, Minuman, About, Contact
+
 Logo "My Website" di pojok kiri atas
 
 b). Informasi Kontak
 Ditampilkan dengan ikon dan teks yang jelas:
 
-c). Nomor Telepon
+1). Nomor Telepon
 
 Ikon telepon
 Nomor: +62 7469 3851
 
-d). Lokasi
+2). Lokasi
 
 Ikon lokasi
 Alamat: Jln. Wonokromo 9, Sleman
 
-e). Email
+3). Email
 
 Ikon surat
 Alamat: infosedapnusantara@gmail.com
 
-f). Formulir Kontak
+c). Formulir Kontak
 
 Judul "Tuliskan Pesan Apa Saja Kepada Kami"
+
 Field input untuk:
 
-Nama Anda
-Email Anda
-No Telepon Anda
-Pesan Anda (text area)
+-Nama Anda
+-Email Anda
+-No Telepon Anda
+-Pesan Anda (text area)
 
-g). Tombol "Kirim Pesan" dengan warna merah gelap
+d). Tombol "Kirim Pesan" dengan warna merah gelap
 
-h). Peta Lokasi
+f). Peta Lokasi
 
 Judul "Lokasi Kami"
+
 Menampilkan Google Maps interaktif
+
 Area yang ditampilkan: Wilayah Jawa Timur
+
 Fitur zoom in/out
+
 Opsi "View larger map" dan "Directions"
+
 Menampilkan lokasi Karangbinangun, Lamongan Regency, East Java
 
-i). Desain Antarmuka
+g). Desain Antarmuka
 
 Warna dominan merah dan putih
+
 Layout yang bersih dan terorganisir
+
 Responsif untuk berbagai ukuran layar
+
 Footer dengan teks "Pemrograman Web 1 @ 2024"
 
 
