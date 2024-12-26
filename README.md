@@ -98,6 +98,24 @@ Tombol interaktif
 
 ### **Fitur Utama:**
 
+a). Navigasi Menu: Menu di bagian atas halaman mencakup beberapa opsi, seperti Home, Makanan, Minuman, About, dan Contact, memungkinkan pengguna untuk berpindah ke berbagai halaman dalam situs.
+
+b). Tabel Data Makanan
+Kolom Informasi:
+No: Menampilkan nomor urut data.
+Nama Makanan: Menampilkan nama makanan tradisional.
+Daerah Makanan: Menampilkan asal daerah dari makanan tersebut.
+Total Data: Di bagian bawah tabel, ditampilkan jumlah total data yang ada dalam tabel.
+
+c). Aksi Pengelolaan Data
+Edit: Tombol ini memungkinkan pengguna untuk memperbarui informasi data makanan tertentu.
+Hapus: Tombol ini digunakan untuk menghapus data makanan tertentu dari sistem.
+
+d). Tambah Data Baru: Tombol berwarna kuning bertuliskan + Tambah Data Baru yang memungkinkan pengguna menambahkan data makanan baru ke dalam tabel.
+
+e). Desain Tampilan: Tema warna merah dengan teks putih dan elemen aksen kuning memberikan kesan berani dan tradisional, selaras dengan tema kuliner tradisional.
+
+f). Footer Halaman: Informasi tentang hak cipta dan versi website terdapat di bagian bawah halaman.
 
 ### Halaman View Minuman
 
