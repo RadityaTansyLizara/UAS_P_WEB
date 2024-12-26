@@ -322,7 +322,7 @@ Tampilan visual yang profesional dan menarik
 ![Screenshot 2024-12-26 130145](https://github.com/user-attachments/assets/6132f349-9448-4e99-9528-06d15200f541)
 ![Screenshot 2024-12-26 173453](https://github.com/user-attachments/assets/cfed5199-87d8-4b58-90c4-ca07b1456d32)
 
-### **Fitur Utama:***
+### **Fitur Utama:**
 
 a). Header dan Navigasi: 
 
