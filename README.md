@@ -101,29 +101,33 @@ Tombol interaktif
 
 ### Halaman View Minuman
 
-![image](https://github.com/user-attachments/assets/10fa27b3-83f5-4576-bee9-153fbf67af19)
+![Screenshot 2024-12-26 124829](https://github.com/user-attachments/assets/ca745b9d-0115-47f8-bffe-0b6176d44f04)
+
 
 ### **Fitur Utama:**
 
 
 ### Halaman Add Proses Minuman
 
-![image](https://github.com/user-attachments/assets/fb2b12df-4200-46e9-a862-6baf694b975d)
+![Screenshot 2024-12-26 125328](https://github.com/user-attachments/assets/f32a0619-8944-4d7c-8fea-462eae416350)
+
 
 ### **Fitur Utama:**
 
 
 ### Halaman Update Proses
 
-![image](https://github.com/user-attachments/assets/b594992a-a836-4120-b01e-7f2516e925bd)
+![Screenshot 2024-12-26 125517](https://github.com/user-attachments/assets/281d1024-9055-4781-a69e-c3ebc1333a36)
+
 
 ### **Fitur Utama:**
 
 
 ### Halaman About
 
-![image](https://github.com/user-attachments/assets/ca98bbc8-69c0-45f0-96ae-34dd02cd614c)
-![Screenshot 2024-12-26 125817](https://github.com/user-attachments/assets/8d439963-0b28-498f-a543-402f5563295e)
+![Screenshot 2024-12-26 125725](https://github.com/user-attachments/assets/a1927612-1cc8-418f-8177-2032346426f9)
+
+![Screenshot 2024-12-26 125817](https://github.com/user-attachments/assets/ce0bcb70-92d4-4b6b-8e4e-4030e526af73)
 
 
 ### **Fitur Utama:**
@@ -131,8 +135,10 @@ Tombol interaktif
 
 ### Halaman Contact
 
-![image](https://github.com/user-attachments/assets/7f2c12ce-7bf8-4215-a163-e238ce6f5783)
-![image](https://github.com/user-attachments/assets/99b57718-d90a-4411-934f-30a6498dde80)
+![Screenshot 2024-12-26 130041](https://github.com/user-attachments/assets/56e29181-23a4-47f3-ab0d-584ec262955c)
+
+![Screenshot 2024-12-26 130145](https://github.com/user-attachments/assets/6132f349-9448-4e99-9528-06d15200f541)
+
 
 
 
