@@ -36,24 +36,36 @@ Dengan adanya menu "Contact", pengunjung dapat dengan mudah menemukan cara untuk
 ### **Fitur Utama:**
 
 a). Halaman Data Makanan: 
+
 Judul utama "Data Makanan"
+
 Tombol "+ Tambah Data Baru" untuk menambahkan entri makanan baru
+
 Tabel dengan kolom:
 
 b). No (nomor urut): 
+
 Nama Makanan
+
 Daerah Makanan (asal daerah)
+
 Aksi (berisi tombol Edit dan Hapus untuk setiap entri)
 
 c). Data yang Ditampilkan: 
 Saat ini terdapat 2 entri makanan:
+
 Gudeg dari Daerah Istimewa Yogyakarta
+
 Batagor dari Jakarta. 
+
 Di bagian bawah tabel tercantum "Total: 2 data"
 
 d). Fungsionalitas: 
+
 Tombol Edit (berwarna kuning) untuk mengubah data
+
 Tombol Hapus (berwarna merah) untuk menghapus data
+
 Kemampuan untuk menambah data baru
 
 e). Footer: 
@@ -70,7 +82,6 @@ Menggunakan Bootstrap 5.3,
 Navigasi ramah perangkat mobile dan 
 Tabel responsif
 
-
 b). Tampilan:
 Tema merah gelap sesuai desain asli, 
 Teks brand berwarna kuning, 
@@ -79,15 +90,15 @@ Efek hover pada tombol
 
 
 c). Fitur:
-Menu navigasi lengkap dalam bahasa Indonesia, 
-Tabel data dengan tombol Edit dan Hapus, 
+Menu navigasi lengkap dalam bahasa Indonesia: 
+Tabel data dengan tombol Edit dan Hapus,
 Tombol Tambah Data Baru, 
 Dialog konfirmasi hapus dan 
 Penghitung total data
 
 
 d). Komponen:
-Navbar Bootstrap, 
+Navbar Bootstrap,
 Tabel responsif, 
 Footer kustom dan 
 Tombol interaktif
@@ -98,17 +109,22 @@ Tombol interaktif
 
 ### **Fitur Utama:**
 
-a). Navigasi Menu: Menu di bagian atas halaman mencakup beberapa opsi, seperti Home, Makanan, Minuman, About, dan Contact, memungkinkan pengguna untuk berpindah ke berbagai halaman dalam situs.
+a). Navigasi Menu: Menu di bagian atas halaman mencakup beberapa opsi. Seperti Home, Makanan, Minuman, About, dan Contact, memungkinkan pengguna untuk berpindah ke berbagai halaman dalam situs.
 
-b). Tabel Data Makanan
-Kolom Informasi:
+b). Tabel Data Makanan: Kolom Informasi:
+
 No: Menampilkan nomor urut data.
+
 Nama Makanan: Menampilkan nama makanan tradisional.
+
 Daerah Makanan: Menampilkan asal daerah dari makanan tersebut.
+
 Total Data: Di bagian bawah tabel, ditampilkan jumlah total data yang ada dalam tabel.
 
 c). Aksi Pengelolaan Data
+
 Edit: Tombol ini memungkinkan pengguna untuk memperbarui informasi data makanan tertentu.
+
 Hapus: Tombol ini digunakan untuk menghapus data makanan tertentu dari sistem.
 
 d). Tambah Data Baru: Tombol berwarna kuning bertuliskan + Tambah Data Baru yang memungkinkan pengguna menambahkan data makanan baru ke dalam tabel.
@@ -123,21 +139,36 @@ f). Footer Halaman: Informasi tentang hak cipta dan versi website terdapat di ba
 
 ### **Fitur Utama:**
 
-a). Menampilkan Data Minuman: Menampilkan data dalam format tabel dengan kolom: No, Nama Minuman, Daerah Minuman, dan Aksi. 
+a). Menampilkan Data Minuman: Menampilkan data dalam format tabel dengan kolom:
+
+No, Nama Minuman, Daerah Minuman, dan Aksi. 
+
 Saat ini terdapat 2 data minuman yang ditampilkan: Es Kuwut dari Bali dan Bajigur dari Jawa Barat
+
 Total data yang tersimpan ditampilkan di bagian bawah tabel
 
-b). Navigation Menu: Menu navigasi di bagian atas terdiri dari: Home, Makanan, Minuman, About, dan Contact. 
+b). Navigation Menu: Menu navigasi di bagian atas terdiri dari:
+
+Home, Makanan, Minuman, About, dan Contact. 
+
 Logo/nama website "My Website" ditampilkan di sebelah kiri header
 
-c). Fitur Pengelolaan Data: Tombol "+ Tambah Data Baru" berwarna kuning di atas tabel untuk menambah minuman baru. 
+c). Fitur Pengelolaan Data: 
+
+Tombol "+ Tambah Data Baru" berwarna kuning di atas tabel untuk menambah minuman baru. 
+
 Setiap baris data memiliki 2 tombol aksi:
+
 Tombol "Edit" berwarna kuning untuk mengubah data
+
 Tombol "Hapus" berwarna merah untuk menghapus data
 
-d). Desain Antarmuka: Menggunakan tema warna merah gelap untuk header dan background, 
+d). Desain Antarmuka: Menggunakan tema warna merah gelap untuk header dan background,
+
 Tabel dengan latar belakang putih untuk keterbacaan yang baik, 
+
 Header "Daftar Kuliner Tradisional" yang jelas di bagian atas halaman dan
+
 Footer menampilkan teks "Pemrograman Web 1 @ 2024"
 
 ### Halaman Add Proses Minuman
