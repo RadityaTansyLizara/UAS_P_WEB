@@ -1,4 +1,4 @@
-| Variable | Isi |
+![image](https://github.com/user-attachments/assets/74dfe96e-02ac-464d-8ec5-b48d9d629b83)| Variable | Isi |
 | -------- | --- |
 | Nama | RADITYA TANSY LIZARA  |
 | NIM | 312310454 |
@@ -91,6 +91,55 @@ Navbar Bootstrap,
 Tabel responsif, 
 Footer kustom dan 
 Tombol interaktif
+
+### Halaman Update Proses
+
+![image](https://github.com/user-attachments/assets/a20c49cf-0358-43a0-ac54-3c818838188d)
+
+### **Fitur Utama:**
+
+
+### Halaman View Minuman
+
+![image](https://github.com/user-attachments/assets/10fa27b3-83f5-4576-bee9-153fbf67af19)
+
+### **Fitur Utama:**
+
+
+### Halaman Add Proses Minuman
+
+![image](https://github.com/user-attachments/assets/fb2b12df-4200-46e9-a862-6baf694b975d)
+
+### **Fitur Utama:**
+
+
+### Halaman Update Proses
+
+![image](https://github.com/user-attachments/assets/b594992a-a836-4120-b01e-7f2516e925bd)
+
+### **Fitur Utama:**
+
+
+### Halaman About
+
+![image](https://github.com/user-attachments/assets/ca98bbc8-69c0-45f0-96ae-34dd02cd614c)
+![Screenshot 2024-12-26 125817](https://github.com/user-attachments/assets/8d439963-0b28-498f-a543-402f5563295e)
+
+
+### **Fitur Utama:**
+
+
+### Halaman Contact
+
+![image](https://github.com/user-attachments/assets/7f2c12ce-7bf8-4215-a163-e238ce6f5783)
+![image](https://github.com/user-attachments/assets/99b57718-d90a-4411-934f-30a6498dde80)
+
+
+
+
+
+
+
 
 
 
