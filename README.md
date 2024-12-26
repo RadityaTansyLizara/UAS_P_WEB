@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/74dfe96e-02ac-464d-8ec5-b48d9d629b83)| Variable | Isi |
+| Variable | Isi |
 | -------- | --- |
 | Nama | RADITYA TANSY LIZARA  |
 | NIM | 312310454 |
